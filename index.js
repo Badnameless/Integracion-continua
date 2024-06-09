@@ -1,4 +1,4 @@
-function helloWorld() {
+function helloWorld2() {
     return "Hola Mundo";
   }
   
